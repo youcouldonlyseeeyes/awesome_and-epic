@@ -1,0 +1,19 @@
+body {
+  /*background-color: lightblue;*/
+  background-image: url("img/bgmama.png");
+  background-repeat: repeat-x;
+  background-size:cover;
+  font-family: "Comic Sans MS";
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Comic Sans MS";
+}
+
+p {
+  font-family: verdana;
+  font-size: 80px;
+  font-family: "Wingdings MS";
+}
